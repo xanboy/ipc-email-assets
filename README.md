@@ -1,0 +1,1 @@
+# ipc-email-assets
